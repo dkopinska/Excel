@@ -60,7 +60,7 @@ Figure 3. Pivot Table to show countries which have sales in all markets.
 
 Figure 4. Pivot Table to show differences in profits by country.
 
-![alt text](https://github.com/user-attachments/assets/23b05738-6581-44a9-bc61-131e66038d40)
+![alt text](https://github.com/user-attachments/assets/7ece6979-d842-446d-86a9-9413c617cb23)
 
 
 Figure 5. Pivot Table to show differences in profit by gender.
