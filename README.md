@@ -1,5 +1,5 @@
 # Retail Sales Dataset
 
-Figure 1. Pivot table to show gender differences in spending.
+Figure 1. V-look up to show product category and total amount in sales per specific transaction.
 
-![alt text](https://github.com/user-attachments/assets/93540ed2-5874-4605-9b86-afba1c517c60)
+![alt text](https://github.com/user-attachments/assets/b3166666-0933-4635-a943-7cf529d40018)
