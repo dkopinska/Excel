@@ -17,7 +17,7 @@ Figure 3. Screenshot to show a Pivot Table and Bar Chart to show gender differen
 
 Figure 4. Screenshow to show a Pivot Table and Bar Chart to show generational differences in spending.
 
-!alt text](https://github.com/user-attachments/assets/63ee6aad-8dfb-4e62-bca7-68eb7b1b0306)
+![alt text](https://github.com/user-attachments/assets/63ee6aad-8dfb-4e62-bca7-68eb7b1b0306)
 
 
 Figure 5. Table to show the use of V-look up function to return product category and total amount in sales per speciic transaction.
