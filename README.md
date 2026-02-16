@@ -41,3 +41,52 @@ Figure 8. Tables to sort students from lowest to highest mark in each subject.
 ![alt text](https://github.com/user-attachments/assets/d869ff56-707c-47c6-8c4b-720e0b8f34f0)
 
 
+# Bike Sales Pivot Lab
+
+Figure 1. Pivot Table to show differences in the number of bikes sales by men and women from different generations and from different countries. Bar Chart to show differences in spending between men and women of different generations.
+
+![alt text](https://github.com/user-attachments/assets/c666ad8c-c70c-4325-8b3e-43a212239e56)
+
+
+Figure 2. Pivot Table to show in which markets Germany has customers.
+
+![alt text](https://github.com/user-attachments/assets/ecb6c94c-f8d7-4baf-8331-29041a91f7fc)
+
+
+Figure 3. Pivot Table to show countries which have sales in all markets.
+
+![alt text](https://github.com/user-attachments/assets/d6aed59b-cec5-4561-821b-e1a706472dea)
+
+
+Figure 4. Pivot Table to show differences in profits by country.
+
+![alt text](https://github.com/user-attachments/assets/23b05738-6581-44a9-bc61-131e66038d40)
+
+
+Figure 5. Pivot Table to show differences in profit by gender.
+
+![alt text](https://github.com/user-attachments/assets/cc39af44-34e0-4199-bfcf-7f103eaa5d8b)
+
+
+Figure 6. Pivot Table to show most profitable markets by country.
+
+![alt text](https://github.com/user-attachments/assets/7b88afe4-8560-44f0-9912-b939acde9fa2)
+
+
+Figure 7. Pivot Table to compare sales of each bike model by country.
+
+![alt text](https://github.com/user-attachments/assets/86b201d3-1fe0-4296-abd7-596ff6d0c6a1)
+
+
+Figure 8. Pivot Table to compare sales of each bike model by gender.
+
+![alt text](https://github.com/user-attachments/assets/32cb82a5-de10-4d00-bc27-98380c98db27)
+
+
+
+
+
+
+
+
+
