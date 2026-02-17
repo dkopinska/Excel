@@ -227,7 +227,7 @@ Top 3: France
 
 The US and Australia together accounted for 67.7% of total revenue.
 
-![alt text](https://github.com/user-attachments/assets/148f7bfe-82f5-4309-921f-1dce81972ad9)
+![alt text](https://github.com/user-attachments/assets/689f8b1d-4330-48cb-ba14-f1c71d1ffcb3)
 
 By Age Group: Adults (35–64) contributed 57.2% of total profits; Young Adults (25–34) contributed 33%. Combined, these two segments made up 90.2% of profits.
 
