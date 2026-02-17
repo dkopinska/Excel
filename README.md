@@ -486,7 +486,7 @@ US and Australia are key markets, together contributing over 57% of total revenu
 
 Pie Chart – Revenue by Age Group:
 
-![alt text] (https://github.com/user-attachments/assets/99355353-101e-479d-b9f0-5a8d1b13e5dc)
+![alt text](https://github.com/user-attachments/assets/99355353-101e-479d-b9f0-5a8d1b13e5dc)
 
 
 Adults (35–64) are the largest revenue contributors (~50%).
