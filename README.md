@@ -160,79 +160,95 @@ Communicate data-driven findings in a professional format
 
 
 
-# Project 2: Pivot Table Analysis Lab – Bike Sales Dataset
+Project 2: Pivot Table Analysis Lab – Bike Sales Dataset (Data Questions)
 
 📌 Project Overview
 
-This lab demonstrates practical Excel Pivot Table analysis on a bike sales dataset. The goal is to explore sales patterns across countries, markets, age groups, genders, and product models. The analysis helps identify key revenue drivers, high-value customer segments, and opportunities for strategic marketing decisions.
+This project demonstrates the use of Excel Pivot Tables to analyse bike sales data across countries, markets, age groups, genders, and product categories. The analysis focuses on answering key business questions, identifying profitable segments, and deriving actionable insights.
 
-The lab also serves as an exercise in data exploration, aggregation, and insight generation using pivot tables and structured data.
+The lab also serves as an exercise in data aggregation, segmentation, and insight generation using Excel Pivot Tables.
 
-🎯 Business Objective
+🎯 Business Objectives / Questions
 
-Analyse bike sales in December 2021 to:
+Using the dataset, the following questions were addressed:
 
-Identify profitable countries and markets
+1. In which markets does Germany have customers?
 
-Determine the most valuable age and gender segments
+2. What country has sales in all markets?
 
-Highlight best-selling bike models
+3. What are the most profitable markets by country, age group, and gender?
 
-Provide actionable insights for stock planning and marketing strategy
+4. Any other findings?
+
+Pivot Tables were used to systematically explore each question.
 
 📊 Analytical Approach
 
 Pivot Table Setup:
 
-Aggregate sales by country, market, age group, and gender
+Rows: Country, Market, Age Group, Gender
 
-Compare total revenue per segment
+Values: Sum of Revenue, Sum of Profit
 
-Identify best-selling products
+Filters: Year = 2021, Month = December
 
 Segmentation Analysis:
 
-Age categories: Young Adult (25–34), Adult (35–64), Senior (65+)
+Age groups: Youth (<25), Young Adults (25–34), Adults (35–64), Seniors (64+)
 
 Gender: Male, Female
-
-Market-Level Analysis:
-
-Explored which markets contributed most to revenue within each country
-
-Product Performance:
-
-Ranked bike models by total sales to identify high-demand products
 
 📈 Key Insights
 
 Geographic Insights:
 
-Germany customers were concentrated in Hamburg, Hessen, and Nordrhein-Westfalen, primarily Adults (35–64). No purchases were recorded from Young Adults or Seniors.
+1. Germany had customers in Hamburg, Hessen, and Nordrhein-Westfalen, primarily Adults (35–64).
 
-The United States had sales in all markets, followed by Australia.
+No purchases were recorded from Young Adults or Seniors in December 2021.
 
-Profitable Segments:
+![alt text](https://github.com/user-attachments/assets/7cde27eb-6a55-4792-8a0e-905e59580a99)
 
-By Country: United States > Australia > France. Together, US and Australia accounted for 67.7% of all sales.
+
+2. The United States had sales in all markets, followed by Australia.
+   Other countries, such as France, Germany, and the UK, had sales in limited markets.
+   
+![alt text](https://github.com/user-attachments/assets/d3afed1e-8164-47ff-85f4-8bf8291a7334)
+
+
+3. Profitable Segments:
+
+ By Country:
+
+Top 1: United States
+
+Top 2: Australia
+
+Top 3: France
+
+The US and Australia together accounted for 67.7% of total revenue.
+
+![alt text](https://github.com/user-attachments/assets/148f7bfe-82f5-4309-921f-1dce81972ad9)
 
 By Age Group: Adults (35–64) contributed 57.2% of total profits; Young Adults (25–34) contributed 33%. Combined, these two segments made up 90.2% of profits.
 
 By Gender: Female customers accounted for 59.6% of total sales, outperforming males.
 
-Product-Level Insights:
+![alt text](https://github.com/user-attachments/assets/44e6301f-dcc5-450e-abcd-b3ad40b77a6a)
+
+
+4. Product-Level Insights:
 
 Top-selling bike models in December 2021:
 
-Mountain-200 Black (46)
+1.Mountain-200 Black (46)
 
-Mountain-200 Black (38)
+2.Mountain-200 Black (38)
 
-Mountain-200 Silver (38)
+3.Mountain-200 Silver (38)
 
-Mountain-200 Black (42)
+4.Mountain-200 Black (42)
 
-Mountain-200 Silver (42)
+5.Mountain-200 Silver (42)
 
 These five Mountain-200 models accounted for 61% of total sales, highlighting strong short-term demand.
 
